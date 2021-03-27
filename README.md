@@ -4,7 +4,7 @@
 ### Developed a business request for the sales department and ensured that the acceptance criterions are maintained
 ### Data cleansing & transformation is carried out using Microsoft SQL Server and necessary data is extracted for modeling
 ### Leveraged Power Query to set up a data model and further built a visual sales management dashboard in Power BI which keeps a track of several sales KPI’s and metrics
-### Tech Stack used: SQL, Power BI, Microsoft SQL Server, Power Query
+### Tech Stack Used: SQL, Power BI, Microsoft SQL Server, Power Query
 
 
 
